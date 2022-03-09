@@ -1,0 +1,44 @@
+h2, h5{
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: 700;
+}
+h2{
+    color: #FFFFFF;
+    font-size: 3rem;
+}
+p, li, a{
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: 400;
+}
+a{
+    text-decoration: none;
+}
+.nav-text{
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: 400;  
+    font-size: 1.2rem; 
+}
+
+.title-grey{
+    color: #707070;
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: 700;
+    font-size: 3rem;
+}
+
+.bg-pay{
+    background-color: #17A2B8;
+}
+
+.bg-footer{
+    background-color: #E83E8C;
+}
+
+.fa-brands{
+    color: #FFFFFF;
+    font-size: 4rem;
+    padding: 0 0.5rem;    
+}
+.navbar-light .navbar-toggler {
+    border-color: #ffffff;
+}
